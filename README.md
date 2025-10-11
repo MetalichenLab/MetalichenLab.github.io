@@ -5,6 +5,6 @@
 
   # MetalichenLab's Website
 
-  Visit **[metalichenlab.github.io/MetalichenLab-website](https://metalichenlab.github.io/MetalichenLab-website)** 🚀
+  Visit **[metalichenlab.github.io](https://metalichenlab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
