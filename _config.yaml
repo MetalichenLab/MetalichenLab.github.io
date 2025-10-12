@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Lichen Symbiosis Research Lab
+title: MetaLichen Lab
 subtitle: at SciLifeLab & Stockholm University
-description: An engaging 1-3 sentence description of your lab.
+description: Our work focuses on fungal-algal symbioses, known as lichens. How is it possible that multiple microbes - fungi, algae, bacteria - self-assemble into a lichen, which is big, complex, and three-dimensional? How can symbiotic interactions lead to a stable body plan? How do lichen architectures develop and grow? To address these questions, we use meta-omics, microscopy, and cell biology tools. Our ultimate goal is to study lichen symbiosis as a case of complexity arising in evolution.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false

@@ -1,9 +1,9 @@
 ---
 ---
 
-# MetalichenLab's Website
+# Lichen Symbiosis Research Lab
 
-An engaging 1-3 sentence description of your lab.
+Our work focuses on fungal-algal symbioses, known as lichens. How is it possible that multiple microbes - fungi, algae, bacteria - self-assemble into a lichen, which is big, complex, and three-dimensional? How can symbiotic interactions lead to a stable body plan? How do lichen architectures develop and grow? To address these questions, we use meta-omics, microscopy, and cell biology tools. Our ultimate goal is to study lichen symbiosis as a case of complexity arising in evolution.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Read more about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,12 +34,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +49,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="publications"
+  title="Our publications"
   flip=true
   style="bare"
   text=text
@@ -59,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+If you are interested in joining the lab as a PhD student or a postdoc, reach out!
 
 {%
   include button.html
