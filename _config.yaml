@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: MetalichenLab
-subtitle: 
+title: Lichen Symbiosis Research Lab
+subtitle: at SciLifeLab & Stockholm University
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@MetalichenLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: gulnara.tagirdzhanova@su.se
+  orcid: 0000-0002-8493-2387
+  google-scholar: RGaY7jcAAAAJ
   github: MetalichenLab
-  twitter: MetalichenLab
-  youtube: MetalichenLab
+  twitter: Metalichen
+  bluesky: metalichen.bsky.social
 
 ### jekyll settings
 
