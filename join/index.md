@@ -1,8 +1,8 @@
 ---
-title: Team
+title: Join
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: Job openings in the lab
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
