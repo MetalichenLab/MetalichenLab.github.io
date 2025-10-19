@@ -69,12 +69,12 @@ Sweden
 <!--{% include section.html dark=true %}-->
 
 <!--{% capture col1 %}-->
-<!--Lorem ipsum dolor sit amet  -->
+<!--Lorem ipsum dolor sit amet-->
 <!--{% endcapture %}-->
 
 <!--{% capture col2 %}-->
-<!--Lorem ipsum dolor sit amet  -->
+<!--Lorem ipsum dolor sit amet-->
 <!--{% endcapture %} -->
 
 
-<!--{% include cols.html col1=col1 col2=col2 %} -->
+<!--{% include cols.html col1=col1 col2=col2 %}-->
