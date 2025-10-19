@@ -1,7 +1,7 @@
 ---
 title: Join
 nav:
-  order: 3
+  order: 5
   tooltip: Job openings in the lab
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 6
   tooltip: Email, address, and location
 ---
 
@@ -12,8 +12,8 @@ Our group is located in [SciLifeLab](https://www.scilifelab.se/), Campus Solna a
 {%
   include button.html
   type="email"
-  text="gulnara.tagirdzhanova@su.se"
-  link="gulnara.tagirdzhanova [at] su.se"
+  text="gulnara.tagirdzhanova [at] su.se"
+  link="gulnara.tagirdzhanova@su.se"
 %}
 <!--{%
   include button.html
@@ -66,15 +66,3 @@ Sweden
 
 {% include cols.html col1=col1 col2=col2 %}
 
-<!--{% include section.html dark=true %}-->
-
-<!--{% capture col1 %}-->
-<!--Lorem ipsum dolor sit amet-->
-<!--{% endcapture %}-->
-
-<!--{% capture col2 %}-->
-<!--Lorem ipsum dolor sit amet-->
-<!--{% endcapture %} -->
-
-
-<!--{% include cols.html col1=col1 col2=col2 %}-->
