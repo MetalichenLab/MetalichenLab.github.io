@@ -1,8 +1,8 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi.org/10.1016/j.cub.2024.12.041
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: https://raw.githubusercontent.com/MetalichenLab/MetalichenLab.github.io/refs/heads/main/images/currbio.jpg
   buttons:
     - type: manubot
       link: https://greenelab.github.io/meta-review/
@@ -16,8 +16,8 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
+- id: doi.org/10.1371/journal.pbio.3002862
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
+- id: doi.org/10.1038/s41598-023-48637-w
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
