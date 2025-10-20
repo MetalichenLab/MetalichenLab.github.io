@@ -240,3 +240,16 @@
   image: images/papers/2024_plosbio.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.cub.2023.03.054.
+  title: The coming golden age for lichen biology
+  authors:
+  - Klara Scharnagl
+  - Gulnara Tagirdzhanova
+  - Nicholas J. Talbot
+  publisher: Current Biology
+  date: '2023-06-01'
+  link: https://doi.org/10.1016/j.cub.2023.03.054.
+  description: Essay on the open questions in lichen biology
+  image: https://www.cell.com/cms/10.1016/j.cub.2023.03.054/asset/14ec9921-7bdc-4936-8695-44e23dd8d76d/main.assets/gr2_lrg.jpg
+  plugin: sources.py
+  file: sources.yaml
