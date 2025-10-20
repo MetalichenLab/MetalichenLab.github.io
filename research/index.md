@@ -22,7 +22,6 @@ Lichen bodies consist of multiple organisms that grow together. How do symbionts
   text=text
 %}
 
-{% include section.html %}
 {% capture text %}
 Lichens grow notoriously slowly and are prone to long periods of inactivity. Individual lichen thalli can grow for decades, centuries, and potentially even millennia. How do mutations accumulate in an organism like that?
 
@@ -37,7 +36,6 @@ Lichens grow notoriously slowly and are prone to long periods of inactivity. Ind
 %}
 
 
-{% include section.html %}
 {% capture text %}
 In addition to the two dominant symbionts, lichen thalli contain a plethora of other organisms, chiefly bacteria and yeasts. What are these organisms and how do they relate to the two dominant symbionts and the symbiosis as a whole?
 
@@ -50,7 +48,6 @@ In addition to the two dominant symbionts, lichen thalli contain a plethora of o
   text=text
 %}
 
-{% include section.html %}
 {% capture text %}
 What can the genomes of lichen symbionts tell us about their evolution? Paired with other ‘omics’, genomic data can tell us a lot about the biology of lichens.
 
@@ -58,7 +55,7 @@ What can the genomes of lichen symbionts tell us about their evolution? Paired w
 
 {%
   include feature.html
-  image="images/symbiont_diversity.png"
+  image="images/genomics.png"
   title="Genomics of lichen symbionts"
   text=text
   flip=true
@@ -66,4 +63,4 @@ What can the genomes of lichen symbionts tell us about their evolution? Paired w
 
 <!--- {% include list.html data="projects" component="card" %}
 
-{% include section.html %} -->
+{% include section.html %} -
