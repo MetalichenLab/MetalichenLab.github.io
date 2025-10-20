@@ -80,3 +80,15 @@ If you are interested in joining the lab as a PhD student or a postdoc, reach ou
   title="Our Team"
   text=text
 %}
+
+{% include section.html background="images/footer.jpg" dark=true %}
+
+{% capture content %}
+
+{% include figure.html image="images/su_logo.png" %}
+{% include figure.html image="images/SciLifeLab_Logo.svg" %}
+
+{% endcapture %}
+
+{% include grid.html content=content %}
+

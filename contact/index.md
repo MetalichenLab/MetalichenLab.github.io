@@ -28,13 +28,13 @@ Our group is located in [SciLifeLab](https://www.scilifelab.se/), Campus Solna a
 **SciLifeLab, Solna**
 
 Visiting address:
-SciLifeLab
-Tomtebodavägen 23A
+SciLifeLab,
+Tomtebodavägen 23A,
 17165 Solna, Sweden
 
 Postal address:
-SciLifeLab
-Box 1031
+SciLifeLab,
+Box 1031,
 17121 Solna, Sweden
 {%
   include figure.html
@@ -48,13 +48,13 @@ Box 1031
 **DEEP, Stockholm University**
 
 Visiting address:
-Svante Arrhenius väg 20 A (or F)
+Svante Arrhenius väg 20 A (or F),
 114 18 Stockholm
 
 Postal address:
 Department of Ecology, Environment and Plant Sciences
-Stockholm University
-SE-106 91 Stockholm
+Stockholm University,
+SE-106 91 Stockholm,
 Sweden
 {%
   include figure.html
