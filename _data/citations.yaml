@@ -56,10 +56,10 @@
   orcid: 0000-0002-8493-2387
   plugin: sources.py
   file: sources.yaml
-  image: images/papers/2025_currbio.jpg
   description: This paper was featured on the [cover](https://www.cell.com/current-biology/issue?pii=S0960-9822(24)X0005-6#),
     in a [commentary by Chrismas & Yahr](https://www.cell.com/current-biology/abstract/S0960-9822(25)00064-8),
     as well as was highlighted in [*Science*](https://www.science.org/doi/10.1126/science.adx6889)
+  image: images/papers/2025_currbio.jpg
 - id: doi:10.1111/nph.18048
   title: Evolutionary biology of lichen symbioses
   authors:
@@ -73,9 +73,9 @@
   orcid: 0000-0002-8493-2387
   plugin: sources.py
   file: sources.yaml
-  image: images/papers/2022_newphyto.png
   description: This paper was featured on the [cover](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17491)
     as well as in a [commentary by Kranner et al.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18130)
+  image: images/papers/2022_newphyto.png
 - id: doi:10.1038/s41467-022-30218-6
   title: Large differences in carbohydrate degradation and transport potential among
     lichen fungal symbionts
