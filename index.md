@@ -83,5 +83,6 @@ If you are interested in joining the lab as a PhD student or a postdoc, reach ou
 
 {% include section.html %}
 
-
-<img src="images/logos_both.jpg" alt="door" width="100"/> 
+<div style="text-align: center;">
+<img src="/images/logos_both.jpg" alt="door" width="500" class="center"/> 
+</div>
