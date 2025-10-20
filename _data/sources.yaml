@@ -4,6 +4,7 @@
   image: images/papers/2025_gbe.jpg
 - id: doi:10.1016/j.cub.2024.12.041
   image: images/papers/2025_currbio.jpg
+  description: This paper was featured on the [cover](https://www.cell.com/current-biology/issue?pii=S0960-9822(24)X0005-6#), in a [commentary by Chrismas & Yahr](https://www.cell.com/current-biology/abstract/S0960-9822(25)00064-8), as well as was highlighted in [*Science*](https://www.science.org/doi/10.1126/science.adx6889)
 - id: doi:10.1101/2024.08.16.608140
   remove: true
 - id: doi:10.1038/s41598-023-48637-w
@@ -14,6 +15,7 @@
   remove: true
 - id: doi:10.1111/nph.18048
   image: images/papers/2022_newphyto.png
+  description: This paper was featured on the [cover](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17491) as well as in a [commentary by Kranner et al.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18130)
 - id: doi:10.1038/s41467-022-30218-6
   image: images/papers/2022_natcomm.jpg
 - id: doi:10.1111/mec.16010
@@ -27,51 +29,7 @@
 - id: doi:10.1093/femsle/fnaa023
   image: images/papers/2020_fems.jpg
 - id: doi:10.1017/S0024282919000380
-  title: Distribution and assessment of the conservation status of<i>Erioderma pedicellatum</i>in
-    Asia
-  authors:
-  - Gulnara TAGIRDZHANOVA
-  - Irina S. STEPANCHIKOVA
-  - Dmitry E. HIMELBRANT
-  - Marina P. VYATKINA
-  - Aleksandra V. DYOMINA
-  - Veronika G. DIRKSEN
-  - Christoph SCHEIDEGGER
-  publisher: The Lichenologist
-  date: '2019-11-01'
-  link: https://doi.org/gqwb6s
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Ninety-one species of lichens and allied fungi new to Latvia with a list
-    of additional records from Kurzeme
-  publisher: Herzogia
-  date: '2021-05-10'
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
+  image: images/papers/2019_lichenologist.png
+- id: doi:10.13158/heia.29.1.2016.143
 - id: doi:10.1371/journal.pbio.3002862
-  title: Microbial occurrence and symbiont detection in a global sample of lichen
-    metagenomes
-  authors:
-  - Gulnara Tagirdzhanova
-  - Paul Saary
-  - Ellen S. Cameron
-  - Carmen C. G. Allen
-  - Arkadiy I. Garber
-  - "David D\xEDaz Escand\xF3n"
-  - Andrew T. Cook
-  - Spencer Goyette
-  - Veera Tuovinen Nogerius
-  - Alfredo Passo
-  - Helmut Mayrhofer
-  - "H\xE5kon Holien"
-  - "Tor T\xF8nsberg"
-  - Lisa Y. Stein
-  - Robert D. Finn
-  - Toby Spribille
-  publisher: PLOS Biology
-  date: '2024-11-07'
-  link: https://doi.org/g8sb64
-  plugin: sources.py
-  file: sources.yaml
+  image: images/papers/2024_plosbio.png
