@@ -8,8 +8,11 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 
+{% include figure.html image="images/2025_scurrbio_cover.jpg" width="20%" %}
 
-## All
+{% include section.html %}
+
+## Browse all publications
 
 {% include search-box.html %}
 

@@ -1,4 +1,90 @@
+- id: doi:10.1101/2025.05.01.651714
+  image: images/papers/2025_trebouxia.jpg
+- id: doi:10.1093/gbe/evaf015
+  image: images/papers/2025_gbe.jpg
 - id: doi:10.1016/j.cub.2024.12.041
-  image: images/currbio.jpg
-- id: doi:10.1371/journal.pbio.3002862
+  image: images/papers/2025_currbio.jpg
+- id: doi:10.1101/2024.08.16.608140
+  remove: true
 - id: doi:10.1038/s41598-023-48637-w
+  image: images/papers/2023_scirep.png
+- id: doi:10.1101/2023.09.13.557537
+  remove: true
+- id: doi:10.1101/2023.02.02.524463
+  remove: true
+- id: doi:10.1111/nph.18048
+  image: images/papers/2022_newphyto.png
+- id: doi:10.1038/s41467-022-30218-6
+  image: images/papers/2022_natcomm.jpg
+- id: doi:10.1111/mec.16010
+  image: images/papers/2021_molecol.jpg
+- id: doi:10.1101/2021.08.01.454614
+  remove: true
+- id: doi:10.1093/gbe/evab047
+  image: images/papers/2021_gbe.jpg
+- id: doi:10.1101/2021.03.17.435722
+  remove: true
+- id: doi:10.1093/femsle/fnaa023
+  title: '3D biofilms: in search of the polysaccharides holding together lichen symbioses'
+  authors:
+  - Toby Spribille
+  - Gulnara Tagirdzhanova
+  - Spencer Goyette
+  - Veera Tuovinen
+  - Rebecca Case
+  - Wesley F Zandberg
+  publisher: FEMS Microbiology Letters
+  date: '2020-02-10'
+  link: https://doi.org/gjfj7n
+  orcid: 0000-0002-8493-2387
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/S0024282919000380
+  title: Distribution and assessment of the conservation status of<i>Erioderma pedicellatum</i>in
+    Asia
+  authors:
+  - Gulnara TAGIRDZHANOVA
+  - Irina S. STEPANCHIKOVA
+  - Dmitry E. HIMELBRANT
+  - Marina P. VYATKINA
+  - Aleksandra V. DYOMINA
+  - Veronika G. DIRKSEN
+  - Christoph SCHEIDEGGER
+  publisher: The Lichenologist
+  date: '2019-11-01'
+  link: https://doi.org/gqwb6s
+  orcid: 0000-0002-8493-2387
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Ninety-one species of lichens and allied fungi new to Latvia with a list
+    of additional records from Kurzeme
+  publisher: Herzogia
+  date: '2021-05-10'
+  orcid: 0000-0002-8493-2387
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.3002862
+  title: Microbial occurrence and symbiont detection in a global sample of lichen
+    metagenomes
+  authors:
+  - Gulnara Tagirdzhanova
+  - Paul Saary
+  - Ellen S. Cameron
+  - Carmen C. G. Allen
+  - Arkadiy I. Garber
+  - "David D\xEDaz Escand\xF3n"
+  - Andrew T. Cook
+  - Spencer Goyette
+  - Veera Tuovinen Nogerius
+  - Alfredo Passo
+  - Helmut Mayrhofer
+  - "H\xE5kon Holien"
+  - "Tor T\xF8nsberg"
+  - Lisa Y. Stein
+  - Robert D. Finn
+  - Toby Spribille
+  publisher: PLOS Biology
+  date: '2024-11-07'
+  link: https://doi.org/g8sb64
+  plugin: sources.py
+  file: sources.yaml
