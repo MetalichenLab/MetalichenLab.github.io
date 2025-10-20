@@ -29,7 +29,7 @@ Lichens grow notoriously slowly and are prone to long periods of inactivity. Ind
 
 {%
   include feature.html
-  image="images/xanthoria_remove_bg.png"
+  image="images/bam.png"
   title="Genetic structure of a lichen body"
   text=text
   flip=true
