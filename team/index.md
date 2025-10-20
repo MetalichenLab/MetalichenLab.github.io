@@ -13,7 +13,12 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'current'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'current'" %}
-
+{% include list.html data="members" component="portrait" filter="role == 'researcher' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'intern' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'assistant' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'MSc' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'visitor' and group == 'current'" %}
 
 {% include section.html %}
 
