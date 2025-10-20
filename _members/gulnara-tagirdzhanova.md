@@ -9,6 +9,7 @@ aliases:
   - G. Tagirdzhanova
   - G. M. Tagirdzhanova
   - GM Tagirdzhanova
+  - Gulnara Tagirdzhanova
 links:
   email: gulnara.tagirdzhanova@su.se
   orcid: 0000-0002-8493-2387
