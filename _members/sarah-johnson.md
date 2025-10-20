@@ -2,7 +2,7 @@
 name: Sarah Johnson
 image: images/photo.jpg
 description: Lead Programmer
-role: programmer
+role: postdoc
 group: current
 links:
   email: sarah.johnson@gmail.com

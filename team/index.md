@@ -31,8 +31,7 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/scilife_logo.png" %}
-[![SciLifeLab](scilife_logo.png)](https://www.scilifelab.se/research/#fellows)
+[![SciLifeLab](/images/scilife_logo.png)](https://www.scilifelab.se/research/#fellows)
 
 
 {% endcapture %}

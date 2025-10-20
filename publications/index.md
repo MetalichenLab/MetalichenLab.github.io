@@ -9,7 +9,7 @@ nav:
 
 {% capture content %}
 
-[![CurrBiol2025](/images/papers/2025_currbio_cover.jpg)](https://doi.org/g843jk)
+[![CurrBiol2025](images/papers/2025_currbio_cover.jpg)](https://doi.org/g843jk)
 
 {% endcapture %}
 {% include section.html %}
