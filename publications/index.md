@@ -9,9 +9,7 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/papers/2025_currbio_cover.jpg" width="20%" link="https://doi.org/g843jk" 
-
-%}
+[![CurrBiol2025](/images/papers/2025_currbio_cover.jpg)](https://doi.org/g843jk)
 
 {% endcapture %}
 {% include section.html %}
