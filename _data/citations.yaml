@@ -1,37 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.05.01.651714
-  title: "Chromosome-level genome assembly of the photobiont alga <i>Trebouxia</i>\
-    \ sp. \u2018A48\u2019 from <i>Xanthoria parietina</i> provides new insight into\
-    \ the lichen symbiosis"
-  authors:
-  - Gulnara Tagirdzhanova
-  - Jasper Raistrick
-  - Nicholas J. Talbot
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-05-07'
-  link: https://doi.org/g97cxr
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gbe/evaf015
-  title: Massive Gene Loss in the Fungus <i>Sporothrix epigloea</i> Accompanied a
-    Shift to Life in a Glucuronoxylomannan-based Gel Matrix
-  authors:
-  - Carmen C G Allen
-  - "David D\xEDaz-Escand\xF3n"
-  - Sarah DeLong-Duhon
-  - Gulnara Tagirdzhanova
-  - Alejandro Huereca
-  - Shauna Reckseidler-Zenteno
-  - Andrew Forbes
-  - Toby Spribille
-  publisher: Genome Biology and Evolution
-  date: '2025-01-27'
-  link: https://doi.org/g97cxs
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.cub.2024.12.041
   title: Complexity of the lichen symbiosis revealed by metagenome and transcriptome
     analysis of Xanthoria parietina
@@ -51,216 +19,9 @@
   publisher: Current Biology
   date: '2025-02-01'
   link: https://doi.org/g843jk
-  orcid: 0000-0002-8493-2387
+  image: images/currbio.jpg
   plugin: sources.py
   file: sources.yaml
-  image: images/currbio.jpg
-- id: doi:10.1101/2024.08.16.608140
-  title: Multipartite complexity of the lichen symbiosis revealed by metagenome and
-    transcriptome analysis of<i>Xanthoria parietina</i>
-  authors:
-  - Gulnara Tagirdzhanova
-  - Klara Scharnagl
-  - Neha Sahu
-  - Xia Yan
-  - Angus Bucknell
-  - Adam R. Bentham
-  - "Clara J\xE9gousse"
-  - "Sandra Lorena Ament-Vel\xE1squez"
-  - "Ioana Onu\u021B-Br\xE4nnstr\xF6m"
-  - Hanna Johannesson
-  - Dan MacLean
-  - Nicholas J. Talbot
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-08-17'
-  link: https://doi.org/g97cxt
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.09.13.557537
-  title: Genomic analysis of<i>Coccomyxa viridis</i>, a common low-abundance alga
-    associated with lichen symbioses
-  authors:
-  - Gulnara Tagirdzhanova
-  - Klara Scharnagl
-  - Xia Yan
-  - Nicholas J. Talbot
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-09-13'
-  link: https://doi.org/g97cxv
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.02.02.524463
-  title: Evidence for a core set of microbial lichen symbionts from a global survey
-    of metagenomes
-  authors:
-  - Gulnara Tagirdzhanova
-  - Paul Saary
-  - Ellen S. Cameron
-  - Arkadiy I. Garber
-  - "David D\xEDaz Escand\xF3n"
-  - Spencer Goyette
-  - Veera Tuovinen Nogerius
-  - Alfredo Passo
-  - Helmut Mayrhofer
-  - "H\xE5kon Holien"
-  - "Tor T\xF8nsberg"
-  - Lisa Y. Stein
-  - Robert D. Finn
-  - Toby Spribille
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-02-02'
-  link: https://doi.org/g97cxw
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/nph.18048
-  title: Evolutionary biology of lichen symbioses
-  authors:
-  - Toby Spribille
-  - Philipp Resl
-  - Daniel E. Stanton
-  - Gulnara Tagirdzhanova
-  publisher: New Phytologist
-  date: '2022-03-18'
-  link: https://doi.org/g97cxx
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41467-022-30218-6
-  title: Large differences in carbohydrate degradation and transport potential among
-    lichen fungal symbionts
-  authors:
-  - Philipp Resl
-  - Adina R. Bujold
-  - Gulnara Tagirdzhanova
-  - Peter Meidl
-  - Sandra Freire Rallo
-  - Mieko Kono
-  - "Samantha Fern\xE1ndez-Brime"
-  - "H\xF6r\xF0ur Gu\xF0mundsson"
-  - "\xD3lafur Sigmar Andr\xE9sson"
-  - Lucia Muggia
-  - Helmut Mayrhofer
-  - John P. McCutcheon
-  - Mats Wedin
-  - Silke Werth
-  - Lisa M. Willis
-  - Toby Spribille
-  publisher: Nature Communications
-  date: '2022-05-12'
-  link: https://doi.org/grgtgw
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/mec.16010
-  title: 'Lichen fungi do not depend on the alga for ATP production: A comment on
-    Pogoda et al. (2018)'
-  authors:
-  - Gulnara Tagirdzhanova
-  - John P. McCutcheon
-  - Toby Spribille
-  publisher: Molecular Ecology
-  date: '2021-07-07'
-  link: https://doi.org/g97cxz
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.08.01.454614
-  title: Large differences in carbohydrate degradation and transport potential in
-    the genomes of lichen fungal symbionts
-  authors:
-  - Philipp Resl
-  - Adina R. Bujold
-  - Gulnara Tagirdzhanova
-  - Peter Meidl
-  - Sandra Freire Rallo
-  - Mieko Kono
-  - "Samantha Fern\xE1ndez-Brime"
-  - "H\xF6r\xF0ur Gu\xF0mundsson"
-  - "\xD3lafur Sigmar Andr\xE9sson"
-  - Lucia Muggia
-  - Helmut Mayrhofer
-  - John P. McCutcheon
-  - Mats Wedin
-  - Silke Werth
-  - Lisa M. Willis
-  - Toby Spribille
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-08-02'
-  link: https://doi.org/gszzw8
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gbe/evab047
-  title: Predicted Input of Uncultured Fungal Symbionts to a Lichen Symbiosis from
-    Metagenome-Assembled Genomes
-  authors:
-  - Gulnara Tagirdzhanova
-  - Paul Saary
-  - Jeffrey P Tingley
-  - "David D\xEDaz-Escand\xF3n"
-  - D Wade Abbott
-  - Robert D Finn
-  - Toby Spribille
-  publisher: Genome Biology and Evolution
-  date: '2021-03-09'
-  link: https://doi.org/g97cx2
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.03.17.435722
-  title: Lichen fungi do not depend on the alga for ATP production
-  authors:
-  - Gulnara Tagirdzhanova
-  - John P. McCutcheon
-  - Toby Spribille
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-03-17'
-  link: https://doi.org/g97cx3
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/femsle/fnaa023
-  title: '3D biofilms: in search of the polysaccharides holding together lichen symbioses'
-  authors:
-  - Toby Spribille
-  - Gulnara Tagirdzhanova
-  - Spencer Goyette
-  - Veera Tuovinen
-  - Rebecca Case
-  - Wesley F Zandberg
-  publisher: FEMS Microbiology Letters
-  date: '2020-02-10'
-  link: https://doi.org/gjfj7n
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1017/S0024282919000380
-  title: Distribution and assessment of the conservation status of<i>Erioderma pedicellatum</i>in
-    Asia
-  authors:
-  - Gulnara TAGIRDZHANOVA
-  - Irina S. STEPANCHIKOVA
-  - Dmitry E. HIMELBRANT
-  - Marina P. VYATKINA
-  - Aleksandra V. DYOMINA
-  - Veronika G. DIRKSEN
-  - Christoph SCHEIDEGGER
-  publisher: The Lichenologist
-  date: '2019-11-01'
-  link: https://doi.org/gqwb6s
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Ninety-one species of lichens and allied fungi new to Latvia with a list
-    of additional records from Kurzeme
-  publisher: Herzogia
-  date: '2021-05-10'
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1371/journal.pbio.3002862
   title: Microbial occurrence and symbiont detection in a global sample of lichen
     metagenomes
@@ -284,5 +45,18 @@
   publisher: PLOS Biology
   date: '2024-11-07'
   link: https://doi.org/g8sb64
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-023-48637-w
+  title: Genomic analysis of Coccomyxa viridis, a common low-abundance alga associated
+    with lichen symbioses
+  authors:
+  - Gulnara Tagirdzhanova
+  - Klara Scharnagl
+  - Xia Yan
+  - Nicholas J. Talbot
+  publisher: Scientific Reports
+  date: '2023-12-02'
+  link: https://doi.org/g97c2w
   plugin: sources.py
   file: sources.yaml
