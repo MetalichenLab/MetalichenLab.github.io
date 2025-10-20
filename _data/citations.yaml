@@ -11,10 +11,9 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-05-07'
   link: https://doi.org/g97cxr
-  orcid: 0000-0002-8493-2387
+  image: images/papers/2025_trebouxia.jpg
   plugin: sources.py
   file: sources.yaml
-  image: images/papers/2025_trebouxia.jpg
 - id: doi:10.1093/gbe/evaf015
   title: Massive Gene Loss in the Fungus <i>Sporothrix epigloea</i> Accompanied a
     Shift to Life in a Glucuronoxylomannan-based Gel Matrix
@@ -30,10 +29,9 @@
   publisher: Genome Biology and Evolution
   date: '2025-01-27'
   link: https://doi.org/g97cxs
-  orcid: 0000-0002-8493-2387
+  image: images/papers/2025_gbe.jpg
   plugin: sources.py
   file: sources.yaml
-  image: images/papers/2025_gbe.jpg
 - id: doi:10.1016/j.cub.2024.12.041
   title: Complexity of the lichen symbiosis revealed by metagenome and transcriptome
     analysis of Xanthoria parietina
@@ -53,13 +51,26 @@
   publisher: Current Biology
   date: '2025-02-01'
   link: https://doi.org/g843jk
-  orcid: 0000-0002-8493-2387
-  plugin: sources.py
-  file: sources.yaml
   description: This paper was featured on the [cover](https://www.cell.com/current-biology/issue?pii=S0960-9822(24)X0005-6#),
     in a [commentary by Chrismas & Yahr](https://www.cell.com/current-biology/abstract/S0960-9822(25)00064-8),
     as well as was highlighted in [*Science*](https://www.science.org/doi/10.1126/science.adx6889)
   image: images/papers/2025_currbio.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-023-48637-w
+  title: Genomic analysis of Coccomyxa viridis, a common low-abundance alga associated
+    with lichen symbioses
+  authors:
+  - Gulnara Tagirdzhanova
+  - Klara Scharnagl
+  - Xia Yan
+  - Nicholas J. Talbot
+  publisher: Scientific Reports
+  date: '2023-12-02'
+  link: https://doi.org/g97c2w
+  image: images/papers/2023_scirep.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/nph.18048
   title: Evolutionary biology of lichen symbioses
   authors:
@@ -70,12 +81,11 @@
   publisher: New Phytologist
   date: '2022-03-18'
   link: https://doi.org/g97cxx
-  orcid: 0000-0002-8493-2387
-  plugin: sources.py
-  file: sources.yaml
   description: This paper was featured on the [cover](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17491)
     as well as in a [commentary by Kranner et al.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18130)
   image: images/papers/2022_newphyto.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-022-30218-6
   title: Large differences in carbohydrate degradation and transport potential among
     lichen fungal symbionts
@@ -99,10 +109,9 @@
   publisher: Nature Communications
   date: '2022-05-12'
   link: https://doi.org/grgtgw
-  orcid: 0000-0002-8493-2387
+  image: images/papers/2022_natcomm.jpg
   plugin: sources.py
   file: sources.yaml
-  image: images/papers/2022_natcomm.jpg
 - id: doi:10.1111/mec.16010
   title: 'Lichen fungi do not depend on the alga for ATP production: A comment on
     Pogoda et al. (2018)'
@@ -113,10 +122,9 @@
   publisher: Molecular Ecology
   date: '2021-07-07'
   link: https://doi.org/g97cxz
-  orcid: 0000-0002-8493-2387
+  image: images/papers/2021_molecol.jpg
   plugin: sources.py
   file: sources.yaml
-  image: images/papers/2021_molecol.jpg
 - id: doi:10.1093/gbe/evab047
   title: Predicted Input of Uncultured Fungal Symbionts to a Lichen Symbiosis from
     Metagenome-Assembled Genomes
@@ -131,10 +139,9 @@
   publisher: Genome Biology and Evolution
   date: '2021-03-09'
   link: https://doi.org/g97cx2
-  orcid: 0000-0002-8493-2387
+  image: images/papers/2021_gbe.jpg
   plugin: sources.py
   file: sources.yaml
-  image: images/papers/2021_gbe.jpg
 - id: doi:10.1093/femsle/fnaa023
   title: '3D biofilms: in search of the polysaccharides holding together lichen symbioses'
   authors:
@@ -147,10 +154,9 @@
   publisher: FEMS Microbiology Letters
   date: '2020-02-10'
   link: https://doi.org/gjfj7n
-  orcid: 0000-0002-8493-2387
+  image: images/papers/2020_fems.jpg
   plugin: sources.py
   file: sources.yaml
-  image: images/papers/2020_fems.jpg
 - id: doi:10.1017/S0024282919000380
   title: Distribution and assessment of the conservation status of<i>Erioderma pedicellatum</i>in
     Asia
@@ -165,22 +171,7 @@
   publisher: The Lichenologist
   date: '2019-11-01'
   link: https://doi.org/gqwb6s
-  orcid: 0000-0002-8493-2387
-  plugin: sources.py
-  file: sources.yaml
   image: images/papers/2019_lichenologist.png
-- id: doi:10.1038/s41598-023-48637-w
-  title: Genomic analysis of Coccomyxa viridis, a common low-abundance alga associated
-    with lichen symbioses
-  authors:
-  - Gulnara Tagirdzhanova
-  - Klara Scharnagl
-  - Xia Yan
-  - Nicholas J. Talbot
-  publisher: Scientific Reports
-  date: '2023-12-02'
-  link: https://doi.org/g97c2w
-  image: images/papers/2023_scirep.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.13158/heia.29.1.2016.143
