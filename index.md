@@ -83,11 +83,7 @@ If you are interested in joining the lab as a PhD student or a postdoc, reach ou
 
 {% include section.html %}
 
-{% capture content %}
 
-{% include figure.html image="images/logos_both.jpg" %}
+{% include figure.html image="images/logos_both.jpg" width="50%" %}
 
-{% endcapture %}
-
-{% include grid.html content=content %}
 
