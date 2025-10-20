@@ -10,9 +10,10 @@ nav:
 ## Current lab members
 
 
-{% include list.html data="members" component="portrait" filters="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filters="role == 'postdoc' and group == 'current'" %}
-{% include list.html data="members" component="portrait" filters="role == 'phd' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'current'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'current'" %}
+
 
 {% include section.html %}
 
