@@ -275,3 +275,58 @@
   image: https://www.cell.com/cms/10.1016/j.cub.2022.11.014/asset/76e08120-5694-4c9c-814d-1969ef39c2bc/main.assets/gr3_lrg.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.12697/fce.2019.56.04
+  title: New records of lichens and allied fungi from the Leningrad Region, Russia.
+    X
+  authors:
+  - Dmitry E. Himelbrant
+  - Irina S. Stepanchikova
+  - "Jurga Motiej\u016Bnait\u0117"
+  - Ekaterina S. Kuznetsova
+  - Gulnara Tagirdzhanova
+  - Ivan V. Frolov
+  publisher: Folia Cryptogamica Estonica
+  date: '2019-06-11'
+  link: https://doi.org/g97dcq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.12697/fce.2015.52.03
+  title: New records of lichens and allied fungi from the Leningrad Region, Russia.
+    VI
+  authors:
+  - Dmitry Himelbrant
+  - Irina Stepanchikova
+  - "Jurga Motiej\u016Bnait\u0117"
+  - Jan Vondrak
+  - Gulnara Tagirdzhanova
+  - Ludmila Gagarina
+  - Ekaterina Kuznetsova
+  publisher: Folia Cryptogamica Estonica
+  date: '2015-08-19'
+  link: https://doi.org/g97dcr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.12697/fce.2014.51.11
+  title: New lichen records from the Novgorod Region, Russia
+  authors:
+  - Gulnara M. Tagirdzhanova
+  - Olga A. Kataeva
+  - Irina S. Stepanhcikova
+  publisher: Folia Cryptogamica Estonica
+  date: '2014-07-10'
+  link: https://doi.org/g97dcs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.12697/fce.2014.51.04
+  title: New records of lichens and allied fungi from the Leningrad Region, Russia.
+    V
+  authors:
+  - Dmitry E. Himelbrant
+  - "Jurga Motiej\u016Bnait\u0117"
+  - Irina S. Stepanchikova
+  - Gulnara M. Tagirdzhanova
+  publisher: Folia Cryptogamica Estonica
+  date: '2014-07-10'
+  link: https://doi.org/g97dct
+  plugin: sources.py
+  file: sources.yaml
