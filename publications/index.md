@@ -6,12 +6,14 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
-
+{% include section.html %}
 {% capture content %}
 
-[![CurrBiol2025](images/papers/2025_currbio_cover.jpg)](https://doi.org/g843jk)
+[![CurrBiol2025](/images/papers/2025_currbio_cover.jpg)](https://doi.org/g843jk)
 
 {% endcapture %}
+{% include grid.html  content=content %}
+
 {% include section.html %}
 
 ## Browse all publications
