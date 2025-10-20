@@ -35,4 +35,9 @@
   image: images/papers/2024_plosbio.png
 - title: Ninety-one species of lichens and allied fungi new to Latvia with a list
     of additional records from Kurzeme
+  publisher: Herzogia
+  date: '2021-05-10'
   remove: true
+- id: doi:10.1016/j.cub.2023.03.054.
+  description: Essay on the open questions in lichen biology
+  image: https://www.cell.com/cms/10.1016/j.cub.2023.03.054/asset/14ec9921-7bdc-4936-8695-44e23dd8d76d/main.assets/gr2_lrg.jpg
