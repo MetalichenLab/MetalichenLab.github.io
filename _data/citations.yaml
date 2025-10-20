@@ -52,9 +52,8 @@
   date: '2025-02-01'
   link: https://doi.org/g843jk
   orcid: 0000-0002-8493-2387
-  plugin: sources.py
-  file: sources.yaml
-  image: images/currbio.jpg
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.08.16.608140
   title: Multipartite complexity of the lichen symbiosis revealed by metagenome and
     transcriptome analysis of<i>Xanthoria parietina</i>
