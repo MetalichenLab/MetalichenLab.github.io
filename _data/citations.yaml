@@ -57,6 +57,9 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers/2025_currbio.jpg
+  description: This paper was featured on the [cover](https://www.cell.com/current-biology/issue?pii=S0960-9822(24)X0005-6#),
+    in a [commentary by Chrismas & Yahr](https://www.cell.com/current-biology/abstract/S0960-9822(25)00064-8),
+    as well as was highlighted in [*Science*](https://www.science.org/doi/10.1126/science.adx6889)
 - id: doi:10.1111/nph.18048
   title: Evolutionary biology of lichen symbioses
   authors:
@@ -71,6 +74,8 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers/2022_newphyto.png
+  description: This paper was featured on the [cover](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17491)
+    as well as in a [commentary by Kranner et al.](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18130)
 - id: doi:10.1038/s41467-022-30218-6
   title: Large differences in carbohydrate degradation and transport potential among
     lichen fungal symbionts
@@ -163,6 +168,7 @@
   orcid: 0000-0002-8493-2387
   plugin: sources.py
   file: sources.yaml
+  image: images/papers/2019_lichenologist.png
 - title: Ninety-one species of lichens and allied fungi new to Latvia with a list
     of additional records from Kurzeme
   publisher: Herzogia
@@ -184,11 +190,28 @@
   image: images/papers/2023_scirep.png
   plugin: sources.py
   file: sources.yaml
-- title: Ninety-one species of lichens and allied fungi new to Latvia with a list
-    of additional records from Kurzeme
+- id: doi:10.13158/heia.29.1.2016.143
+  title: Ninety-One Species of Lichens and Allied Fungi New to Latvia with a List
+    of Additional Records from Kurzeme
+  authors:
+  - "Jurga Motiej\u016Bnait\u0117"
+  - Sergei V. Chesnokov
+  - "Pawe\u0142 Czarnota"
+  - Ludmila V. Gagarina
+  - Ivan Frolov
+  - Dmitry Himelbrant
+  - Ludmila A. Konoreva
+  - Dariusz Kubiak
+  - Martin Kukwa
+  - Rolands Moisejevs
+  - Irina Stepanchikova
+  - Ave Suija
+  - Gulnara Tagirdzhanova
+  - Arne Thell
+  - Andrei Tsurykau
   publisher: Herzogia
-  date: '2021-05-10'
-  orcid: 0000-0002-8493-2387
+  date: '2016-06-01'
+  link: https://doi.org/f9r7df
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pbio.3002862
@@ -214,5 +237,6 @@
   publisher: PLOS Biology
   date: '2024-11-07'
   link: https://doi.org/g8sb64
+  image: images/papers/2024_plosbio.png
   plugin: sources.py
   file: sources.yaml
