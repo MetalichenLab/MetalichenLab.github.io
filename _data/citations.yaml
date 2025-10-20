@@ -253,3 +253,25 @@
   image: https://www.cell.com/cms/10.1016/j.cub.2023.03.054/asset/14ec9921-7bdc-4936-8695-44e23dd8d76d/main.assets/gr2_lrg.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.cub.2022.11.014
+  title: Genome-level analyses resolve an ancient lineage of symbiotic ascomycetes
+  authors:
+  - "David D\xEDaz-Escand\xF3n"
+  - Gulnara Tagirdzhanova
+  - Dan Vanderpool
+  - Carmen C.G. Allen
+  - "Andr\xE9 Aptroot"
+  - "Oluna \u010Ce\u0161ka"
+  - David L. Hawksworth
+  - Alejandro Huereca
+  - Kerry Knudsen
+  - "Jana Kocourkov\xE1"
+  - "Robert L\xFCcking"
+  - Philipp Resl
+  - Toby Spribille
+  publisher: Current Biology
+  date: '2022-12-01'
+  link: https://doi.org/g8w4zm
+  image: https://www.cell.com/cms/10.1016/j.cub.2022.11.014/asset/76e08120-5694-4c9c-814d-1969ef39c2bc/main.assets/gr3_lrg.jpg
+  plugin: sources.py
+  file: sources.yaml
