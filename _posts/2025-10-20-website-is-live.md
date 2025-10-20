@@ -1,6 +1,7 @@
 ---
 title: Website is live
-image: images/blogposts/share.jpg
+image: images/blogposts/deep_door.jpg
+author: Gulnara Tagirdzhanova
 tags: group
 ---
 
