@@ -145,6 +145,7 @@
   orcid: 0000-0002-8493-2387
   plugin: sources.py
   file: sources.yaml
+  image: images/papers/2020_fems.jpg
 - id: doi:10.1017/S0024282919000380
   title: Distribution and assessment of the conservation status of<i>Erioderma pedicellatum</i>in
     Asia
