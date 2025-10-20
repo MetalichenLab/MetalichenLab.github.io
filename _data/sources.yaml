@@ -25,20 +25,7 @@
 - id: doi:10.1101/2021.03.17.435722
   remove: true
 - id: doi:10.1093/femsle/fnaa023
-  title: '3D biofilms: in search of the polysaccharides holding together lichen symbioses'
-  authors:
-  - Toby Spribille
-  - Gulnara Tagirdzhanova
-  - Spencer Goyette
-  - Veera Tuovinen
-  - Rebecca Case
-  - Wesley F Zandberg
-  publisher: FEMS Microbiology Letters
-  date: '2020-02-10'
-  link: https://doi.org/gjfj7n
-  orcid: 0000-0002-8493-2387
-  plugin: orcid.py
-  file: orcid.yaml
+  image: images/papers/2020_fems.jpg
 - id: doi:10.1017/S0024282919000380
   title: Distribution and assessment of the conservation status of<i>Erioderma pedicellatum</i>in
     Asia
