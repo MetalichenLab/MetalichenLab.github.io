@@ -2,6 +2,7 @@
 name: Jane Smith
 image: images/photo.jpg
 role: pi
+group: current
 aliases:
   - J. Smith
   - J Smith

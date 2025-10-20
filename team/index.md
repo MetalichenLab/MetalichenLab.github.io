@@ -12,15 +12,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role == pi" %}
 {% include list.html data="members" component="portrait" filters="role == postdoc and group == current" %}
-{% include list.html data="members" component="portrait" filters="role: phd and group: current" %}
-{% include list.html data="members" component="portrait" filters="role: bioinformatician and group: current" %}
-{% include list.html data="members" component="portrait" filters="role: labtech and group: current" %}
-{% include list.html data="members" component="portrait" filters="role: assistant and group: current" %}
-{% include list.html data="members" component="portrait" filters="role: intern and group: current" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad and group: current" %}
-{% include list.html data="members" component="portrait" filters="role: guest and group: current" %}
-{% include section.html background="images/banner.jpg" dark=true %}
-
+{% include list.html data="members" component="portrait" filters="role == phd and group == current" %}
 
 {% include section.html %}
 
