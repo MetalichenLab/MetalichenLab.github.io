@@ -85,8 +85,7 @@ If you are interested in joining the lab as a PhD student or a postdoc, reach ou
 
 {% capture content %}
 
-{% include figure.html image="images/su_logo.png" %}
-{% include figure.html image="images/SciLifeLab_Logo.svg" %}
+{% include figure.html image="images/logos_both.jpg" %}
 
 {% endcapture %}
 

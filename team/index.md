@@ -14,17 +14,15 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/footer.jpg" dark=true %}
+{% include section.html background="images/header.jpg" dark=true %}
 
 {% include section.html %}
 
 ## Funders
 
-{% include section.html %}
-
 {% capture content %}
 
-{% include figure.html image="images/SciLifeLab_Logo.svg" %}
+{% include figure.html image="images/scilife_logo.png" %}
 
 {% endcapture %}
 
