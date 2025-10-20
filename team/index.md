@@ -16,6 +16,8 @@ nav:
 
 {% include section.html background="images/footer.jpg" dark=true %}
 
+{% include section.html %}
+
 ## Funders
 
 {% include section.html %}
