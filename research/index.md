@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research directions
 
-The first symbiosis to be discovered were lichens. Lichens consist of multiple unrelated lineages of microbes: different fungi, unicellular algae, and bacteria. Together – and only together – they can form elaborate three-dimensional bodies, which look nothing like individual symbionts. Our research focuses on the functional and taxonomic diversity of lichen symbionts and the give-and-take of symbionts into the common outcome. We are interested in several topics: 
+Lichen bodies, while looking like a single organism, consist of multiple unrelated lineages of microbes: fungi, unicellular algae, and bacteria. In isolation, these can be considered microorganisms. Within a lichen, however, the symbionts coordinate their growth, leading to a consistent body plan with multiple tissue-like layers and conserved structures. The mechanisms behind these microbe-microbe interactions remain largely unknown. Our research focuses on the functional and taxonomic diversity of lichen symbionts and the give-and-take of symbionts into the common outcome. We are interested in several topics: 
 
 {% include section.html %}
 {% capture text %}
@@ -23,6 +23,47 @@ Lichen bodies consist of multiple organisms that grow together. How do symbionts
 %}
 
 {% include section.html %}
+{% capture text %}
+Lichens grow notoriously slowly and are prone to long periods of inactivity. Individual lichen thalli can grow for decades, centuries, and potentially even millennia. How do mutations accumulate in an organism like that?
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/xanthoria_remove_bg.png"
+  title="Genetic structure of a lichen body"
+  text=text
+  flip=true
+%}
+
+
+{% include section.html %}
+{% capture text %}
+In addition to the two dominant symbionts, lichen thalli contain a plethora of other organisms, chiefly bacteria and yeasts. What are these organisms and how do they relate to the two dominant symbionts and the symbiosis as a whole?
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/symbiont_diversity.png"
+  title="Diversity and functions of lichen symbionts"
+  text=text
+%}
+
+{% include section.html %}
+{% capture text %}
+What can the genomes of lichen symbionts tell us about their evolution? Paired with other ‘omics’, genomic data can tell us a lot about the biology of lichens.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/symbiont_diversity.png"
+  title="Genomics of lichen symbionts"
+  text=text
+  flip=true
+%}
+
 <!--- {% include list.html data="projects" component="card" %}
 
 {% include section.html %} -->
