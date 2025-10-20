@@ -169,6 +169,13 @@
   plugin: sources.py
   file: sources.yaml
   image: images/papers/2019_lichenologist.png
+- title: Ninety-one species of lichens and allied fungi new to Latvia with a list
+    of additional records from Kurzeme
+  publisher: Herzogia
+  date: '2021-05-10'
+  orcid: 0000-0002-8493-2387
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41598-023-48637-w
   title: Genomic analysis of Coccomyxa viridis, a common low-abundance alga associated
     with lichen symbioses
