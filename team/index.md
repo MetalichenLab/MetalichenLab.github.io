@@ -26,8 +26,8 @@ nav:
 
 {% capture content %}
 
-[![SciLifeLab](/images/scilife_logo.png)](https://www.scilifelab.se/research/#fellows)
-
+[![SciLifeLab](/images/funders/scilife_logo.png)](https://www.scilifelab.se/research/#fellows)
+[![Kungl. Fysiografiska Sällskapet i Lund](/images/funders/fysiografen.png)](https://www.fysiografen.se/en/)
 
 {% endcapture %}
 
