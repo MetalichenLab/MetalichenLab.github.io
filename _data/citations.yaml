@@ -301,7 +301,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/nph.70728
-  title: "Chromosome-level genome assembly of the photobiont microalga Trebouxia sp. A48 from the lichen Xanthoria parietina"
+  title: "Chromosome\u2010level genome assembly of the photobiont microalga\n    \
+    \                <i>Trebouxia</i>\n                    sp. \u2018\n          \
+    \          <scp>A48</scp>\n                    \u2019 from the lichen\n      \
+    \              <i>Xanthoria parietina</i>"
   authors:
   - Gulnara Tagirdzhanova
   - Jasper Raistrick
@@ -313,7 +316,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.11.25.690456
-  title: "Tangerine: a\n                  <i>Starship</i>\n\
+  title: "<i>Tangerine</i>\n                  : a\n                  <i>Starship</i>\n\
     \                  -like element in the genomes of\n                  <i>Xanthoria</i>\n\
     \                  lichen-forming fungi"
   authors:
