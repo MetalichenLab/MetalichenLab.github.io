@@ -1,0 +1,11 @@
+
+Normally, the list should auto-update from orchid, but it doesn't work? Can add papers manually by supplying the dot
+
+Open _data/source.yml
+
+# To add a new paper:
+* Add a new line as:
+"- id: doi:"
+* Add the image to represent the paper: next line, then double space, then path to the image (here it should be images/papers/filename.jpg)
+
+
