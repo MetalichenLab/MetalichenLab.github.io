@@ -300,8 +300,23 @@
   link: https://doi.org/g97dct
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1111/nph.70728
+  title: "Chromosome\u2010level genome assembly of the photobiont microalga\n    \
+    \                <i>Trebouxia</i>\n                    sp. \u2018\n          \
+    \          <scp>A48</scp>\n                    \u2019 from the lichen\n      \
+    \              <i>Xanthoria parietina</i>"
+  authors:
+  - Gulnara Tagirdzhanova
+  - Jasper Raistrick
+  - Nicholas J. Talbot
+  publisher: New Phytologist
+  date: '2025-11-10'
+  link: https://doi.org/hbfp66
+  image: images/papers/2025_trebouxia.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2025.11.25.690456
-  title: "Tangerine: a\n                  <i>Starship</i>\n\
+  title: "<i>Tangerine</i>\n                  : a\n                  <i>Starship</i>\n\
     \                  -like element in the genomes of\n                  <i>Xanthoria</i>\n\
     \                  lichen-forming fungi"
   authors:
