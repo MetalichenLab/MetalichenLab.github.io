@@ -1,5 +1,5 @@
 - id: doi:10.1101/2025.05.01.651714
-  image: images/papers/2025_trebouxia.jpg
+  remove: true
 - id: doi:10.1093/gbe/evaf015
   image: images/papers/2025_gbe.jpg
 - id: doi:10.1016/j.cub.2024.12.041
@@ -47,3 +47,7 @@
 - id: doi:10.12697/fce.2015.52.03
 - id: doi:10.12697/fce.2014.51.11
 - id: doi:10.12697/fce.2014.51.04
+- id: doi:10.1111/nph.70728
+  image: images/papers/2025_trebouxia.jpg
+- id: doi:10.1101/2025.11.25.690456
+  image: images/papers/2025_tangerine.png
