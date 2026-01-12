@@ -330,7 +330,7 @@
   publisher: New Phytologist
   date: '2025-11-10'
   link: https://doi.org/hbfp66
-  image: images/papers/2025_trebouxia.jpg
   description: This paper was featured in Plant Science Research Weekly in [*Plantae*](https://plantae.org/genomic-analysis-of-a-lichen-photobiont-alga/)
+  image: images/papers/2025_trebouxia.jpg
   plugin: sources.py
   file: sources.yaml
