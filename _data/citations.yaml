@@ -1,19 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.05.01.651714
-  title: "Chromosome-level genome assembly of the photobiont alga <i>Trebouxia</i>\
-    \ sp. \u2018A48\u2019 from <i>Xanthoria parietina</i> provides new insight into\
-    \ the lichen symbiosis"
-  authors:
-  - Gulnara Tagirdzhanova
-  - Jasper Raistrick
-  - Nicholas J. Talbot
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-05-07'
-  link: https://doi.org/g97cxr
-  image: images/papers/2025_trebouxia.jpg
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1093/gbe/evaf015
   title: Massive Gene Loss in the Fungus <i>Sporothrix epigloea</i> Accompanied a
     Shift to Life in a Glucuronoxylomannan-based Gel Matrix
@@ -312,5 +298,38 @@
   publisher: Folia Cryptogamica Estonica
   date: '2014-07-10'
   link: https://doi.org/g97dct
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/nph.70728
+  title: "Chromosome\u2010level genome assembly of the photobiont microalga\n    \
+    \                <i>Trebouxia</i>\n                    sp. \u2018\n          \
+    \          <scp>A48</scp>\n                    \u2019 from the lichen\n      \
+    \              <i>Xanthoria parietina</i>"
+  authors:
+  - Gulnara Tagirdzhanova
+  - Jasper Raistrick
+  - Nicholas J. Talbot
+  publisher: New Phytologist
+  date: '2025-11-10'
+  link: https://doi.org/hbfp66
+  image: images/papers/2025_trebouxia.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.11.25.690456
+  title: "<i>Tangerine</i>\n                  : a\n                  <i>Starship</i>\n\
+    \                  -like element in the genomes of\n                  <i>Xanthoria</i>\n\
+    \                  lichen-forming fungi"
+  authors:
+  - Gulnara Tagirdzhanova
+  - Angus Bucknell
+  - Ellen S. Cameron
+  - Robert D. Finn
+  - Mark Blaxter
+  - Megan C. McDonald
+  - Nicholas J. Talbot
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-11-27'
+  link: https://doi.org/hbjpfx
+  image: images/papers/2025_tangerine.png
   plugin: sources.py
   file: sources.yaml
