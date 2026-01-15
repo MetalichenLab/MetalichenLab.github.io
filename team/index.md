@@ -28,6 +28,7 @@ nav:
 
 [![SciLifeLab](/images/funders/scilife_logo.png)](https://www.scilifelab.se/research/#fellows)
 [![Kungl. Fysiografiska Sällskapet i Lund](/images/funders/fysiografen.png)](https://www.fysiografen.se/en/)
+[![The Lars Hierta Memorial Foundation](/images/funders/lars-hiertas-minne-logo.png)](https://www.larshiertasminne.se/)
 
 {% endcapture %}
 
