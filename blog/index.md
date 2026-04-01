@@ -5,7 +5,7 @@ nav:
   tooltip: News and blogposts
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blogposts and News
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News and Blogposts
 
 
 {% include section.html %}

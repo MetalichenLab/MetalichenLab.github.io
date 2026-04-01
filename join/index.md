@@ -7,4 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Join
 
-We will be happy to host a 2-year postdoc working on lichen symbiosis. [DDLS fellowship](https://www.scilifelab.se/data-driven/ddls-research-school/ddls-research-school-postdoc-call-2026/) is currently open for applications with the deadline March 31 2026. Reach out if you're interested!
+If you are an MSc or BSc student at Stockholm University and are interested in doing your degree project in the lab, please reach out!
+
+If you are interested in joining the lab as a postdoc, there are several Swedish (e.g. Carl Tryggers and Wenner-Gren) and international (e.g. Marie-Curie) funding bodies that can provide a fellowship. If you are interested, please contact me via email!
+
+We have no PhD positions open at the moment.
