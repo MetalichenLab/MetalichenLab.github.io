@@ -1,7 +1,7 @@
 ---
 ---
 
-#Lichen Symbiosis Research Lab
+# Lichen Symbiosis Research Lab
 
 The lab of Gulnara Tagirdzhanova (a.k.a. MetaLichen Lab) focuses on fungal-algal symbioses, known as lichens. How is it possible that multiple microbes - fungi, algae, bacteria - self-assemble into a lichen, which is big, complex, and three-dimensional? How can symbiotic interactions lead to a stable body plan? How do lichen architectures develop and grow? To address these questions, we use meta-omics, microscopy, and cell biology tools. Our ultimate goal is to study lichen symbiosis as a case of complexity arising in evolution.
 
