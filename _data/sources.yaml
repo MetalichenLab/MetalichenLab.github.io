@@ -52,3 +52,5 @@
 - id: doi:10.1111/nph.70728
   description: This paper was featured in Plant Science Research Weekly in [*Plantae*](https://plantae.org/genomic-analysis-of-a-lichen-photobiont-alga/)
   image: images/papers/2025_trebouxia.jpg
+- id: doi:10.1038/s41467-026-74988-9
+  image: images/papers/2026_siderophore.png
