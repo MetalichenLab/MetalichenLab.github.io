@@ -334,3 +334,29 @@
   image: images/papers/2025_trebouxia.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41467-026-74988-9
+  title: Siderophore production by the lichen fungus Xanthoria parietina supports
+    its algal symbiont
+  authors:
+  - Isidor Happacher
+  - Gregor Pichler
+  - Beate Abt
+  - Gulnara Tagirdzhanova
+  - Simon Oberegger
+  - Martin Kraihammer
+  - Klaus Faserl
+  - Bettina Sarg
+  - Clemens Decristoforo
+  - "Roman T\xFCrk"
+  - "G\xFCnther Winkelmann"
+  - Nicholas J. Talbot
+  - Matthias Brock
+  - Ilse Kranner
+  - Kurt Haselwandter
+  - Hubertus Haas
+  publisher: Nature Communications
+  date: '2026-07-02'
+  link: https://doi.org/hb9tcp
+  image: images/papers/2026_siderophore.png
+  plugin: sources.py
+  file: sources.yaml
