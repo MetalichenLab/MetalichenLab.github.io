@@ -300,9 +300,9 @@
   link: https://doi.org/g97dct
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.11.25.690456
-  title: "<i>Tangerine:</i>\n                  a new family of\n                 \
-    \ <i>Starships</i>\n                  from lichen-forming fungi"
+- id: doi:10.1073/pnas.2534402123
+  title: "<i>Tangerine</i>\n                    : A new family of\n              \
+    \      <i>Starships</i>\n                    from lichen-forming fungi"
   authors:
   - Gulnara Tagirdzhanova
   - Noah E. Brown
@@ -313,9 +313,9 @@
   - Megan C. McDonald
   - Emile Gluck-Thaler
   - Nicholas J. Talbot
-  publisher: openRxiv
-  date: '2025-11-27'
-  link: https://doi.org/hbjpfx
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2026-08-11'
+  link: https://doi.org/hcfbwt
   image: images/papers/2025_tangerine.png
   plugin: sources.py
   file: sources.yaml
