@@ -7,7 +7,7 @@ tags: publication
 
 Our paper on Tangerine the lichen Starship is out in [PNAS](https://www.pnas.org/doi/10.1073/pnas.2534402123)! See below the summary of this study 👇
 
-Discovery of giant transposons Starships challenged what we thought we knew about fungal genomes. But what about Starships in lichen fungi? In the paper, we present the Tangerine element from Xanthoria parietina. Tangerine has all hallmark features of a Starship: 100 kb in length, the captain gene responsible for transposition, as well as accessory genes and ‘cargo’. 
+Discovery of giant transposons Starships challenged what we thought we knew about fungal genomes. But what about Starships in lichen fungi? In this paper, we present the Tangerine element from Xanthoria parietina. Tangerine has all hallmark features of a Starship: 100 kb in length, the captain gene responsible for transposition, as well as accessory genes and ‘cargo’. 
 
 ![Tangerine](/images/blogposts/2026_tangerine2.png)
 
