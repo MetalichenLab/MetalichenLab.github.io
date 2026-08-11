@@ -17,6 +17,6 @@ Tangerine’s captain didn’t fit into any existing family of Starship captains
 
 Coolest part for me is the tantalizing possibility that Tangerine might have mediated horizontal gene transfer (HGT) between different fungi present within a lichen thallus. Two genes from Tangerine appear to have been horizontally transferred from Chaetothyriales, a group of black fungi. Some Chaetothyriales are stably associated with certain lichens, and our earlier evidence suggest that they can be present in Xanthoria as well. We found other potential HGT events linked to Starships too by juxtaposing phylogenetic tree of the captains with the species phylogeny.
 
-![HGT](/images/blogposts/2026_tangerine2.png)
+![HGT](/images/blogposts/2026_tangerine3.png)
 
 Our little Tangerine is undoubtedly not the only Starship present in lichens! Hopefully we will soon know more about their diversity and what kind of role they play in the evolution of lichen fungi.
