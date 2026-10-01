@@ -1,5 +1,5 @@
 ---
-title: Tangerine, a Starship element in the genome of Xanthoria is a representative of a new Starship family unique to lichens
+title: New paper on  Tangerine, a Starship element in the genome of Xanthoria and a new Starship family
 image: images/papers/2025_tangerine.png
 author: Gulnara Tagirdzhanova
 tags: publication
