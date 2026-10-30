@@ -28,21 +28,11 @@ nav:
 
 {% capture content %}
 
-<a href="https://www.vr.se/english.html" target="_blank">
-  {% include figure.html image="/images/funders/vr2.png" %}
-</a>
+{% include figure.html image="/images/funders/vr2.png" link="https://www.vr.se/english.html" %}
+{% include figure.html image="/images/su_logo.png" link="https://www.su.se/english" %}
+{% include figure.html image="/images/funders/fysiografen.png" link="https://www.fysiografen.se/en/" %}
+{% include figure.html image="/images/funders/lars-hiertas-minne-logo.png" link="https://www.larshiertasminne.se/" %}
 
-<a href="https://www.su.se/english" target="_blank">
-  {% include figure.html image="/images/su_logo.png" %}
-</a>
-
-<a href="https://www.fysiografen.se/en/" target="_blank">
-  {% include figure.html image="/images/funders/fysiografen.png" %}
-</a>
-
-<a href="https://www.larshiertasminne.se/" target="_blank">
-  {% include figure.html image="/images/funders/lars-hiertas-minne-logo.png" %}
-</a>
 
 
 {% endcapture %}
