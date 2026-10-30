@@ -19,7 +19,7 @@ links:
   bluesky: metalichen.bsky.social
 ---
 
-I am an incoming Assistant Professor at the Department of Ecology, Environment and Plant Sciences (Stockholm University) and SciLifeLab Fellow. My scientific interest have always been on lichens, from the molecular mechanisms of symbiont interactioins, to lichen diversity and conservation biology. 
+I am an Assistant Professor at the Department of Ecology, Environment and Plant Sciences (Stockholm University) and SciLifeLab Fellow. My scientific interest have always been on lichens, from the molecular mechanisms of symbiont interactioins, to lichen diversity and conservation biology. 
 
 When not in the lab, I learn Swedish and go outside. Hobbies I can pretend I still have: hiking, lindy hop, and embroidery
 
