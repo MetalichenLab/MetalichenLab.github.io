@@ -22,13 +22,17 @@ nav:
 
 {% include section.html %}
 
+
 ## Funders
+
 
 {% capture content %}
 
-[![SciLifeLab](/images/funders/scilife_logo.png)](https://www.scilifelab.se/research/#fellows)
+[![Swedish Research Council](/images/funders/vr.jpg)](https://www.vr.se/english.html)
+[![Stockholm University](/images/su_logo.ong)](https://www.su.se/english)
 [![Kungl. Fysiografiska Sällskapet i Lund](/images/funders/fysiografen.png)](https://www.fysiografen.se/en/)
 [![The Lars Hierta Memorial Foundation](/images/funders/lars-hiertas-minne-logo.png)](https://www.larshiertasminne.se/)
+
 
 {% endcapture %}
 
