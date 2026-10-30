@@ -28,10 +28,21 @@ nav:
 
 {% capture content %}
 
-[![Swedish Research Council](/images/funders/vr.jpg)](https://www.vr.se/english.html)
-[![Stockholm University](/images/su_logo.ong)](https://www.su.se/english)
-[![Kungl. Fysiografiska Sällskapet i Lund](/images/funders/fysiografen.png)](https://www.fysiografen.se/en/)
-[![The Lars Hierta Memorial Foundation](/images/funders/lars-hiertas-minne-logo.png)](https://www.larshiertasminne.se/)
+<a href="https://www.vr.se/english.html" target="_blank">
+  {% include figure.html image="/images/funders/vr2.png" %}
+</a>
+
+<a href="https://www.su.se/english" target="_blank">
+  {% include figure.html image="/images/su_logo.png" %}
+</a>
+
+<a href="https://www.fysiografen.se/en/" target="_blank">
+  {% include figure.html image="/images/funders/fysiografen.png" %}
+</a>
+
+<a href="https://www.larshiertasminne.se/" target="_blank">
+  {% include figure.html image="/images/funders/lars-hiertas-minne-logo.png" %}
+</a>
 
 
 {% endcapture %}
